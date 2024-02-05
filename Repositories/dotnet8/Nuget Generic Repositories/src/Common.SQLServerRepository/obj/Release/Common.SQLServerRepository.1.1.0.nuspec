@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Common.SQLServerRepository</id>
+    <version>1.1.0</version>
+    <authors>Common.SQLServerRepository</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="8377ef4451b91f8642c5ec824c9af6ade67f8da9" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.EntityFrameworkCore" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="8.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.SQLServerRepository/bin/Release/net8.0/Common.SQLServerRepository.runtimeconfig.json" target="lib/net8.0/Common.SQLServerRepository.runtimeconfig.json" />
+    <file src="/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.SQLServerRepository/bin/Release/net8.0/Common.SQLServerRepository.dll" target="lib/net8.0/Common.SQLServerRepository.dll" />
+  </files>
+</package>

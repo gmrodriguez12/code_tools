@@ -1,0 +1,15 @@
+/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.SQLServerRepository/bin/Debug/net8.0/Common.SQLServerRepository.deps.json
+/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.SQLServerRepository/bin/Debug/net8.0/Common.SQLServerRepository.dll
+/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.SQLServerRepository/bin/Debug/net8.0/Common.SQLServerRepository.pdb
+/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.SQLServerRepository/obj/Debug/net8.0/Common.SQLServerRepository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.SQLServerRepository/obj/Debug/net8.0/Common.SQLServerRepository.AssemblyInfoInputs.cache
+/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.SQLServerRepository/obj/Debug/net8.0/Common.SQLServerRepository.AssemblyInfo.cs
+/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.SQLServerRepository/obj/Debug/net8.0/Common.SQLServerRepository.csproj.CoreCompileInputs.cache
+/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.SQLServerRepository/obj/Debug/net8.0/Common.SQLServerRepository.sourcelink.json
+/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.SQLServerRepository/obj/Debug/net8.0/Common.SQLServerRepository.dll
+/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.SQLServerRepository/obj/Debug/net8.0/refint/Common.SQLServerRepository.dll
+/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.SQLServerRepository/obj/Debug/net8.0/Common.SQLServerRepository.pdb
+/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.SQLServerRepository/obj/Debug/net8.0/ref/Common.SQLServerRepository.dll
+/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.SQLServerRepository/bin/Debug/net8.0/Common.SQLServerRepository.runtimeconfig.json
+/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.SQLServerRepository/obj/Debug/net8.0/Common.SQLServerRepository.csproj.AssemblyReference.cache
+/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.SQLServerRepository/obj/Debug/net8.0/Common.SQLServerRepository.genruntimeconfig.cache

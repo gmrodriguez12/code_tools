@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Common.MongoDBRepository</id>
+    <version>1.0.0</version>
+    <authors>Common.MongoDBRepository</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="684e3c626facccbf5dd45713e4d447b68195be86" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.Extensions.Configuration" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Binder" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="MongoDB.Driver" version="2.23.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.MongoDBRepository/bin/Release/net8.0/Common.MongoDBRepository.dll" target="lib/net8.0/Common.MongoDBRepository.dll" />
+  </files>
+</package>

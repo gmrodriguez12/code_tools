@@ -1,0 +1,53 @@
+Common commands
+
+dotnet new classlib -n Common.MongoDBRepository --framework net8.0
+
+dotnet add package MongoDB.Driver
+
+dotnet add package Microsoft.Extensions.Configuration
+    This lib is used to read, link and manage the configuration application, from files like JSON, XML, environment variables.
+
+dotnet add package Microsoft.Extensions.Configuration.Binder
+    This lib is used to bind sections of configurations with objects dotnet.
+
+dotnet add package Microsoft.Extensions.DependencyInjection
+
+--Generate nuget packages--
+dotnet pack -o ..\..\packages
+
+required this to install in localhost packages
+copy to library packs.
+
+cp /ruta/al/Common.MongoDBRepository.1.0.0.nupkg /usr/local/share/dotnet/library-packs
+
+<PackageReference Include="Common.MongoDBRepository" Version="1.0.0">
+    <HintPath>Common.MongoDBRepository.1.0.0.nupkg</HintPath>
+</PackageReference>
+
+program.cs in destination project.
+
+builder.Services.AddSingleton<IRepository<TournamentItem>>(serviceProvider =>
+{
+    var mongoClient = new MongoClient("mongodb://localhost:27017");
+    var database = mongoClient.GetDatabase("tennis");
+    return new MongoDBRepository<TournamentItem>(database, "tournaments");
+});
+
+dotnet add package Microsoft.EntityFrameworkCore
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+dotnet add package Microsoft.EntityFrameworkCore.Design
+
+optional
+dotnet add package Microsoft.EntityFrameworkCore.InMemory
+
+///
+
+Call GetAsync
+
+var activeCustomers = await repository.GetAsync(
+    predicate: c => c.IsActive,
+    orderBy: q => q.OrderBy(c => c.Name),
+    includeString: "Orders"
+);
+
+

@@ -1,0 +1,12 @@
+/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.MongoDBRepository/bin/Debug/net8.0/Common.MongoDBRepository.deps.json
+/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.MongoDBRepository/bin/Debug/net8.0/Common.MongoDBRepository.dll
+/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.MongoDBRepository/bin/Debug/net8.0/Common.MongoDBRepository.pdb
+/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.MongoDBRepository/obj/Debug/net8.0/Common.MongoDBRepository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.MongoDBRepository/obj/Debug/net8.0/Common.MongoDBRepository.AssemblyInfoInputs.cache
+/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.MongoDBRepository/obj/Debug/net8.0/Common.MongoDBRepository.AssemblyInfo.cs
+/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.MongoDBRepository/obj/Debug/net8.0/Common.MongoDBRepository.csproj.CoreCompileInputs.cache
+/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.MongoDBRepository/obj/Debug/net8.0/Common.MongoDBRepository.sourcelink.json
+/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.MongoDBRepository/obj/Debug/net8.0/Common.MongoDBRepository.dll
+/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.MongoDBRepository/obj/Debug/net8.0/refint/Common.MongoDBRepository.dll
+/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.MongoDBRepository/obj/Debug/net8.0/Common.MongoDBRepository.pdb
+/Users/grodriguez/Documents/Cursos/microservices_course/src/Common/src/Common.MongoDBRepository/obj/Debug/net8.0/ref/Common.MongoDBRepository.dll
